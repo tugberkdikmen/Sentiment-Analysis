@@ -1,0 +1,23 @@
+Left side of "," is parameter, right side is test accuracy percent.
+Batch Size
+1, 91.01
+64, 72.82
+50000, 8.95
+
+Learning Rate
+0.1, 90.37
+10−3, 63.58
+10−4, 18.7
+10−5, 12.47
+
+Regularization coefficient
+10−2, 48.36
+10−4, 48.82
+10−9, 51.32
+
+Weight initialization technique
+Zero, 87.62
+Uniform, 62.82
+Normal, 47.02
+
+using all best performing parameters, 87.41
